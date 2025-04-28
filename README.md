@@ -2,10 +2,6 @@
  #### PROFESSOR: EVERSON SOUSA | TURMA: 3º EM DESENVOLVIMENTO DE SISTEMAS
 
 
-## 📋 Mão na Massa!
-
-Crie um pequeno portfólio (apresentação) contendo:
-
 ### 1. 🎨 Cores
 
 
