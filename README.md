@@ -13,8 +13,8 @@ Crie um pequeno portfólio (apresentação) contendo:
 
 | Cor | Código Hexadecimal | Justificativa |
 | --- | --- | --- |
-| Azul Claro | #4FC3F7 | Passa leveza e modernidade |
-| Cinza Escuro | #455A64 | Seriedade e estabilidade |
+| Preto | #000000 | Passa sofisticação e elegância |
+| Branco | #FFFFFF | Passa leveza e simplicidade |
 
 ---
 
@@ -24,8 +24,7 @@ Crie um pequeno portfólio (apresentação) contendo:
 
 | Fonte | Estilo | Aplicação |
 | --- | --- | --- |
-| Montserrat | Moderna, limpa | Títulos |
-| Roboto | Legível, amigável | Texto normal |
+| Arimo | Simples, limpa | Títulos |
 
 ---
 
