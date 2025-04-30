@@ -1,5 +1,7 @@
 # PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
 
+### Nome da empresa: PEAR
+#### Significado do nome: "PEAR" para sua empresa de tecnologia sugere simplicidade e acessibilidade, como a fruta. Destaca-se pela singularidade em um mercado complexo, mas o significado pleno reside na história e valores da marca.
 
 ### 1. 🎨 Cores
 
